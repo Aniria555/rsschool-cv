@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+}
+main {
+    padding: 20px;
+    box-sizing: border-box;
+    width: 1024px;
+    margin: 0 auto;
+    text-indent: 20px;
+    background: white;
+}
